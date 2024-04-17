@@ -1,3 +1,1 @@
-numbers = [1, 2, 3, 4, 5]
-total = sum(numbers)
-print(total)
+print(funcs.sum_(5, 3))
