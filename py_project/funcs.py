@@ -1,2 +1,3 @@
-print(funcs.sum_(5, 3))
-print(funcs.sub_(8, 3))
+numbers = [1, 2, 3, 4, 5]
+total = sum(numbers)
+print(total) 
